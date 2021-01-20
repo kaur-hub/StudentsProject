@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7510" started-at="2021-01-20T07:50:00Z" finished-at="2021-01-20T07:50:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7510" started-at="2021-01-20T07:50:00Z" finished-at="2021-01-20T07:50:08Z">
+      <class name="com.qa.Students.UserInfo">
+        <test-method status="PASS" signature="propertyExtentSetup()[pri:0, instance:com.qa.Students.UserInfo@7a0ac6e3]" name="propertyExtentSetup" is-config="true" duration-ms="1661" started-at="2021-01-19T23:49:59Z" finished-at="2021-01-19T23:50:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- propertyExtentSetup -->
+        <test-method status="PASS" signature="getrequest()[pri:0, instance:com.qa.Students.UserInfo@7a0ac6e3]" name="getrequest" duration-ms="5588" started-at="2021-01-19T23:50:00Z" finished-at="2021-01-19T23:50:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getrequest -->
+        <test-method status="PASS" signature="parseJson()[pri:0, instance:com.qa.Students.UserInfo@7a0ac6e3]" name="parseJson" duration-ms="1455" started-at="2021-01-19T23:50:06Z" finished-at="2021-01-19T23:50:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- parseJson -->
+        <test-method status="PASS" signature="validateResponseStatus()[pri:0, instance:com.qa.Students.UserInfo@7a0ac6e3]" name="validateResponseStatus" duration-ms="141" started-at="2021-01-19T23:50:07Z" finished-at="2021-01-19T23:50:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateResponseStatus -->
+        <test-method status="PASS" signature="validateUserId()[pri:0, instance:com.qa.Students.UserInfo@7a0ac6e3]" name="validateUserId" duration-ms="239" started-at="2021-01-19T23:50:08Z" finished-at="2021-01-19T23:50:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUserId -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.qa.Students.UserInfo@7a0ac6e3]" name="close" is-config="true" duration-ms="391" started-at="2021-01-19T23:50:08Z" finished-at="2021-01-19T23:50:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.qa.Students.UserInfo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
